@@ -1,9 +1,8 @@
 function App() {
   return (
-    <>
-      <h1>My Atomic Project</h1>
-    </>
+    <div>
+      <h1> Test Husky </h1>
+    </div>
   );
 }
-
 export default App;
