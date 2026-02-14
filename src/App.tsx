@@ -1,8 +1,11 @@
+import { Title } from './components/atoms/Title';
+
 function App() {
   return (
-    <div>
-      <h1> Test Husky</h1>
-    </div>
+    <>
+      <Title />
+    </>
   );
 }
+
 export default App;
